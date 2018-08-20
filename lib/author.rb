@@ -3,4 +3,5 @@ class Author
 def post(post)
     @post << post
     post.author = self
+  end
 end
