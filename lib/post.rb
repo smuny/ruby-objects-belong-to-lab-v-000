@@ -1,5 +1,7 @@
 class Post
   attr_accessor :title
 @@all = []
-def 
+def self.all
+  
+end
 end
